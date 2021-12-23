@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items xmlns="http://www.telerik.com/importReleaseNotesSchema.xsd">
+  <releaseNoteItem Title="Common">
+    <newItems>
+      <add>Classic Theme Package &lt;a href="https://github.com/telerik/kendo-themes/blob/master/packages/classic/CHANGELOG.md#4420-2021-10-18"&gt; (v4.42.0) &lt;/a&gt;</add>
+      <add>Bootstrap Theme Package &lt;a href="https://github.com/telerik/kendo-themes/blob/master/packages/bootstrap/CHANGELOG.md#4420-2021-10-18"&gt; (v4.42.0) &lt;/a&gt;</add>
+      <add>Default Theme Package &lt;a href="https://github.com/telerik/kendo-themes/blob/master/packages/default/CHANGELOG.md#4420-2021-10-18"&gt; (v4.42.0) &lt;/a&gt;</add>
+      <add>Material Theme Package &lt;a href="https://github.com/telerik/kendo-themes/blob/master/packages/material/CHANGELOG.md#4420-2021-10-18"&gt; (v4.42.0) &lt;/a&gt;</add>
+    </newItems>
+    <fixedItems>
+      <add>Typescript definition of JQuery data method does not include undefined &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6399" &gt; (6399) &lt;/a&gt;</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="DropDownTree">
+    <newItems>
+      <add>DropDownTree accessibility issues &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6620" &gt; (6620) &lt;/a&gt;</add>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="Editor">
+    <newItems>
+      <add>Editor Undo &amp; Redo </add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="ExpansionPanel">
+    <fixedItems>
+      <add>ExpansionPanel: Еxpanding / collapsing nested panels collapse/expand the parent panel &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6373" &gt; (6373) &lt;/a&gt;</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="Filter">
+    <newItems>
+      <add>Filter accessibility compliance</add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="Gantt">
+    <fixedItems>
+      <add>Gantt sends multiple requests on initial task title edit &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6602" &gt; (6602) &lt;/a&gt;</add>
+      <add>Gantt duplicates requests when reordering items in the TreeList part  &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6597" &gt; (6597) &lt;/a&gt;</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="Grid">
+    <newItems>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+      <add>Improved Rows Drag &amp; Drop</add>
+    </newItems>
+    <fixedItems>
+      <add>Grouping a Date field with enabled Group Paging and Virtual Scrolling leads to an error in the Grid &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6570" &gt; (6570) &lt;/a&gt;</add>
+      <add>Calendar in DatePicker or DateTimePicker is not properly styled when used in grid filter &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6523" &gt; (6523) &lt;/a&gt;</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="ListBox">
+    <newItems>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="ListView">
+    <newItems>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="PivotGrid">
+    <newItems>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="Scheduler">
+    <newItems>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="ScrollView">
+    <newItems>
+      <add>ScrollView accessibility compliance</add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="Spreadsheet">
+    <newItems>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+    </newItems>
+    <fixedItems>
+      <add>Named Range for merged cells in Kendo Spreadsheet cannot be reused in another column  &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6631" &gt; (6631) &lt;/a&gt;</add>
+      <add>Spreadsheet formula does not reference properly value from a merged range &lt;a href="https://github.com/telerik/kendo-ui-core/issues/5500" &gt; (5500) &lt;/a&gt;</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="TextArea">
+    <fixedItems>
+      <add>TextArea triggers change event without any changes when value is null &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6593" &gt; (6593) &lt;/a&gt;</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="TextBox">
+    <fixedItems>
+      <add>Enter key does not trigger the change event </add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="TileLayout">
+    <fixedItems>
+      <add>Select in TileLayout header does not work &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6621" &gt; (6621) &lt;/a&gt;</add>
+      <add>setOptions throws an error when toggling reorderable on and off in TileLayout &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6574" &gt; (6574) &lt;/a&gt;</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="TreeList">
+    <newItems>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+    </newItems>
+    <fixedItems>
+      <add>Setting the HeaderHtmlAttributes of the TreeList throws a Null reference exception &lt;a href="https://github.com/telerik/kendo-ui-core/issues/6490" &gt; (6490) &lt;/a&gt;</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="TreeView">
+    <newItems>
+      <add>Make the loading icon accessibility compliant &lt;a href="https://github.com/telerik/kendo-ui-core/issues/4874" &gt; (4874) &lt;/a&gt;</add>
+    </newItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="PdfProcessing">
+    <newItems>
+      <add>Handle import of documents containing entries with duplicated object number in more than one subsection.</add>
+    </newItems>
+    <fixedItems>
+      <add>RadFixedPages are created without PageNumber set when using the RadFixedDocument.Pages.AddPage() method.</add>
+      <add>Wrong parsing to Unicode mapping leads to an ArgumentOutOfRangeException.</add>
+      <add>An InvalidCastException is thrown when importing a document containing a CIDFont with default width (DW) set as PdfReal (double).</add>
+      <add>A NullReferenceException is thrown when importing a document containing Widget annotations with an appearance set that contains Marked content (BMC-EMC) with no FT operands set.</add>
+      <add>Handled ArgumentException is thrown when importing documents containing form fields with the same fully qualified name.</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="SpreadProcessing">
+    <fixedItems>
+      <add>An exception is thrown when color does not have a complete value.</add>
+      <add>SpreadsheetNameException is thrown when importing workbooks with a locally defined built-in name.</add>
+      <add>Hidden sheets should not be exported to PDF. Property is now exposed to control whether the hidden sheets should be included or not.</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="WordsProcessing">
+    <newItems>
+      <add>DocxFormatProvider: Introduced support for hyperlinks on images.</add>
+    </newItems>
+    <fixedItems>
+      <add>Text is not replaced when the document contains empty fields.</add>
+      <add>Unexpected behavior when replacing a string within a run that is not the first element in the paragraph.</add>
+      <add>Wrong import of the border local attribute of Html tables.</add>
+      <add>Forecolor of table cells text is not preserved when exporting to PDF.</add>
+      <add>Table properties are not preserved when replacing text with table.</add>
+      <add>An ArgumentNullException is thrown when importing HTML with empty col elements without attributes.</add>
+      <add>DocxFormatProvider: A NullReferenceException is thrown when exporting an abstract list with character properties.</add>
+    </fixedItems>
+  </releaseNoteItem>
+  <releaseNoteItem Title="ZipLibrary">
+    <fixedItems>
+      <add>Decompressing a password-protected archive with a Stored compression method throws InvalidArgumentOffsetCount.</add>
+    </fixedItems>
+  </releaseNoteItem>
+</items>

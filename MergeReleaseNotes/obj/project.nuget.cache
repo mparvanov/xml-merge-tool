@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7EOorEAxvhnSzPP5R+IRkX7CeHPFw/xpaGTX57NuIJLMz90NwS4dvGSQM0AV0rXCBjO28j+T+sv5dT0SNI4flQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parvanov\\source\\repos\\MergeReleaseNotes\\MergeReleaseNotes\\MergeReleaseNotes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parvanov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

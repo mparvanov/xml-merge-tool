@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<releaseNote xmlns="http://www.telerik.com/importReleaseNotesSchema.xsd">
+  <items>   
+    <releaseNoteItem
+      Title="PdfProcessing">
+      <newItems>
+        <add>Handle import of documents containing entries with duplicated object number in more than one subsection.</add>
+      </newItems>
+      <fixedItems>
+        <add>RadFixedPages are created without PageNumber set when using the RadFixedDocument.Pages.AddPage() method.</add>
+        <add>Wrong parsing to Unicode mapping leads to an ArgumentOutOfRangeException.</add>
+        <add>An InvalidCastException is thrown when importing a document containing a CIDFont with default width (DW) set as PdfReal (double).</add>
+        <add>A NullReferenceException is thrown when importing a document containing Widget annotations with an appearance set that contains Marked content (BMC-EMC) with no FT operands set.</add>
+        <add>Handled ArgumentException is thrown when importing documents containing form fields with the same fully qualified name.</add>
+      </fixedItems>
+    </releaseNoteItem>
+    <releaseNoteItem
+      Title="SpreadProcessing">
+      <fixedItems>
+        <add>An exception is thrown when color does not have a complete value.</add>
+        <add>SpreadsheetNameException is thrown when importing workbooks with a locally defined built-in name.</add>
+        <add>Hidden sheets should not be exported to PDF. Property is now exposed to control whether the hidden sheets should be included or not.</add>
+      </fixedItems>
+    </releaseNoteItem>
+    <releaseNoteItem
+      Title="WordsProcessing">
+      <newItems>
+        <add>DocxFormatProvider: Introduced support for hyperlinks on images.</add>
+      </newItems>
+      <fixedItems>
+        <add>Text is not replaced when the document contains empty fields.</add>
+        <add>Unexpected behavior when replacing a string within a run that is not the first element in the paragraph.</add>
+        <add>Wrong import of the border local attribute of Html tables.</add>
+        <add>Forecolor of table cells text is not preserved when exporting to PDF.</add>
+        <add>Table properties are not preserved when replacing text with table.</add>
+        <add>An ArgumentNullException is thrown when importing HTML with empty col elements without attributes.</add>
+        <add>DocxFormatProvider: A NullReferenceException is thrown when exporting an abstract list with character properties.</add>
+      </fixedItems>
+    </releaseNoteItem>
+    <releaseNoteItem
+      Title="ZipLibrary">
+      <fixedItems>
+        <add>Decompressing a password-protected archive with a Stored compression method throws InvalidArgumentOffsetCount.</add>
+      </fixedItems>
+    </releaseNoteItem>
+  </items>
+</releaseNote>

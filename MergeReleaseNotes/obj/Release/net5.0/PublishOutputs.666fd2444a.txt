@@ -1,0 +1,5 @@
+C:\Users\parvanov\Desktop\Published\MergeReleaseNotes.exe
+C:\Users\parvanov\Desktop\Published\MergeReleaseNotes.dll
+C:\Users\parvanov\Desktop\Published\MergeReleaseNotes.deps.json
+C:\Users\parvanov\Desktop\Published\MergeReleaseNotes.runtimeconfig.json
+C:\Users\parvanov\Desktop\Published\MergeReleaseNotes.pdb

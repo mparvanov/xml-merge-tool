@@ -1,0 +1,15 @@
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\obj\Release\net5.0\MergeReleaseNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\obj\Release\net5.0\MergeReleaseNotes.AssemblyInfoInputs.cache
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\obj\Release\net5.0\MergeReleaseNotes.AssemblyInfo.cs
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\obj\Release\net5.0\MergeReleaseNotes.csproj.CoreCompileInputs.cache
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\bin\Release\net5.0\MergeReleaseNotes.exe
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\bin\Release\net5.0\MergeReleaseNotes.deps.json
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\bin\Release\net5.0\MergeReleaseNotes.runtimeconfig.json
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\bin\Release\net5.0\MergeReleaseNotes.runtimeconfig.dev.json
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\bin\Release\net5.0\MergeReleaseNotes.dll
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\bin\Release\net5.0\ref\MergeReleaseNotes.dll
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\bin\Release\net5.0\MergeReleaseNotes.pdb
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\obj\Release\net5.0\MergeReleaseNotes.dll
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\obj\Release\net5.0\ref\MergeReleaseNotes.dll
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\obj\Release\net5.0\MergeReleaseNotes.pdb
+C:\Users\parvanov\source\repos\MergeReleaseNotes\MergeReleaseNotes\obj\Release\net5.0\MergeReleaseNotes.genruntimeconfig.cache
