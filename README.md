@@ -1,3 +1,5 @@
+https://github.com/telerik/kendo/issues/13998
+
 # xml-merge-tool
 
 We are releasing MVC and Core products together with DPL product so we add DPL change log to MVC and Core changelogs on release. This is currently done manually:
